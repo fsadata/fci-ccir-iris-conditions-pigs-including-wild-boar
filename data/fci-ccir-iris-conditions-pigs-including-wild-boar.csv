@@ -1,0 +1,39 @@
+Area,Condition
+Offal,Milk spot
+Offal,Peritonitis
+Offal,Peurisy visceral
+Offal,Pneumonia mild
+Offal,Pneumonia severe
+Offal,Endocarditis
+Offal,Kidney lesions
+Offal,Pericarditis
+Offal,Abscess - single
+Offal,Abscess - multiple
+Offal,Contamination
+Offal,Other
+Carcase,Joint lesions - single
+Carcase,Joint lesions - multiple
+Carcase,Abscess - single
+Carcase,Abscess - multiple
+Carcase,Tail bite
+Carcase,Papular dermatitis like
+Carcase,Erysipelas skin like
+Carcase,Pleurisy parietal
+Carcase,Peurisy visceral
+Carcase,Fight marks
+Carcase,Contamination
+Carcase,Other
+Total Rejection,Pyaemia/multiple abscess
+Total Rejection,Pyaemia/multiple abscess - tail bite
+Total Rejection,Septic peritonitis & pleurisy 
+Total Rejection,Polyarthritis
+Total Rejection,Emaciation/generalised oedema
+Total Rejection,Septic pleurisy 
+Total Rejection,Processing fault
+Total Rejection,Badly bled
+Total Rejection,Anaemia
+Total Rejection,Fever/septicaemia/toxaemia
+Total Rejection,Jaundice
+Total Rejection,Cysticercosis
+Total Rejection,Contamination
+Total Rejection,Other
